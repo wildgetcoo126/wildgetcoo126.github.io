@@ -1,0 +1,40 @@
+body{
+background-image: url(grass.jpg);
+background-repeat: no-repeat;
+background-size:100%;
+}
+h1{
+text-align:center;
+color:fffff;
+}
+table{
+border:1px solid white;
+padding:15px;
+margin-left: 10px;
+
+}
+th{
+background-color:yellow;
+color:yellow;
+text-align:center;
+}
+div{
+text-align:center;
+font-size: 30px;
+}
+.center {
+  text-align: center;
+}
+th{
+border:1px solid white;
+padding:15px;
+margin-right: 100px;
+text-align: center;
+}
+tr{
+border:1px solid white;
+padding:15px;
+margin-left: 100px;
+td{
+font-size: 30 px;
+}
